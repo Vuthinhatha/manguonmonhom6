@@ -1,0 +1,11 @@
+C:\Users\Nhat Ha\Documents\c#\QLDiem\QLDiem\bin\Debug\QLDiem.exe.config
+C:\Users\Nhat Ha\Documents\c#\QLDiem\QLDiem\bin\Debug\QLDiem.exe
+C:\Users\Nhat Ha\Documents\c#\QLDiem\QLDiem\bin\Debug\QLDiem.pdb
+C:\Users\Nhat Ha\Documents\c#\QLDiem\QLDiem\obj\Debug\QLDiem.csproj.AssemblyReference.cache
+C:\Users\Nhat Ha\Documents\c#\QLDiem\QLDiem\obj\Debug\QLDiem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nhat Ha\Documents\c#\QLDiem\QLDiem\obj\Debug\QLDiem.Form1.resources
+C:\Users\Nhat Ha\Documents\c#\QLDiem\QLDiem\obj\Debug\QLDiem.Properties.Resources.resources
+C:\Users\Nhat Ha\Documents\c#\QLDiem\QLDiem\obj\Debug\QLDiem.csproj.GenerateResource.cache
+C:\Users\Nhat Ha\Documents\c#\QLDiem\QLDiem\obj\Debug\QLDiem.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Ha\Documents\c#\QLDiem\QLDiem\obj\Debug\QLDiem.exe
+C:\Users\Nhat Ha\Documents\c#\QLDiem\QLDiem\obj\Debug\QLDiem.pdb
